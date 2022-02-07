@@ -1,5 +1,5 @@
 # Elogroup_Bootcamp-_Analytics_2021
-### Data Cleaning, EDA and Data Visualization in Covid data with Python.
+### Data Cleaning, EDA and Data Visualization with Covid data using Python.
 This project is was part of a bootcamp that was carried out by the company Elogroup.
 
 The object of the bootcamp was to enhance the ability to transform data with python.
